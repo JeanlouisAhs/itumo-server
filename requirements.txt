@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+mysqlclient
+pymysql
+python-dotenv
+moviepy
+tensforflow
+transformers
+sentencepiece
+SpeechRecognition
+gtts
+googletrans==3.1.0a0
+python-multipart

@@ -1,0 +1,6 @@
+hackathon-env/
+venv/
+.venv
+.hackathon-env
+*__pycache__
+*.DS_Store
